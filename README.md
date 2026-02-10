@@ -10,7 +10,7 @@
 
 ### 🧠 About Me  
 
-I’m a statistics major trying to make sense of the world through data — or at least make my Power BI dashboards prettier than .  
+I’m a statistics major trying to make sense of the world through data — or at least make my Power BI dashboards prettier than histograms.  
 
 - 🔍 Passionate about **Sports Analytics**, **Data Visualization**, **Machine Learning** and **Predictive Modeling**  
 - ⚙️ Experienced with **Power BI**, **Python**, **R**, and **SQL** 
